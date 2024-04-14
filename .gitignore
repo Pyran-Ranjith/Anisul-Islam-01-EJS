@@ -1,3 +1,7 @@
+#This project's ignores
+.vscode/
+Rgit.bat
+
 # Logs
 logs
 *.log
